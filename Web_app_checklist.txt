@@ -1,0 +1,6 @@
+1.Usability Testing
+2.Functional Testing
+3.Compatibility Testing
+4.Database Testing
+5.Security Testing
+6.Performance Testing
