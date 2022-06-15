@@ -1,0 +1,11 @@
+Bug Report:
+    Project:
+    ID:
+    Reporter:
+    Severity:*
+    Priority:
+    Bug Summary:*
+    Step To Retroduce:*
+    Expected Result:*
+    Actual Result:*
+    Attachment:
